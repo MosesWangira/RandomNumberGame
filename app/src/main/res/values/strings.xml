@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Number Game</string>
+    <string name="rules">You will generate a number that is between 0 to 100 by pressing generate number button and try guessing the number with a total of 10 guesses by pressing check if number is correct button to check if you got the number. Let do it!!</string>
+    <string name="rule_of_the_game">Rule of the game</string>
+    <string name="welcome">Welcome to the number game challenge</string>
+    <string name="generate_random_number">Generate random number</string>
+    <string name="number_m_generated">Generate number M</string>
+    <string name="guess_the_number">Guess the number</string>
+    <string name="enter_number_here_guessed">Enter number here guessed</string>
+    <string name="number_of_guesses_remaining">Number of guesses remaining : </string>
+    <string name="try_again">try again !!</string>
+    <string name="check_if_number_is_correct">Check if number is correct</string>
+    <string name="nailed">You nailed it</string>
+    <string name="failed_attempt">You failed try again</string>
+    <string name="integer_remaining"> 10</string>
+    <string name="number_gen">Number M generated find it</string>
+</resources>
